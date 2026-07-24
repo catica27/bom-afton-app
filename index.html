@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BOM Afton — Costeo de Lubricantes</title>
+<link rel="manifest" href="manifest.webmanifest" />
+<meta name="theme-color" content="#1c3d63" />
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png" />
+<link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png" />
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="BOM Afton" />
+<link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+<div id="sidebar">
+  <div class="brand">BOM Afton<small>Costeo de lubricantes</small></div>
+  <nav>
+    <a href="#/dashboard">Dashboard</a>
+    <a href="#/materias-primas">Materias primas</a>
+    <a href="#/productos">Productos / Fórmulas</a>
+    <a href="#/configuracion/indirectos">Configuración</a>
+    <a href="#/comparador">Comparador de escenarios</a>
+    <a href="#/historial">Historial</a>
+    <a href="#/import-export">Importar / Exportar</a>
+  </nav>
+</div>
+<div id="main">
+  <div id="main-content"><p class="muted">Cargando…</p></div>
+</div>
+
+<script src="vendor/chart.umd.js"></script>
+<script src="vendor/xlsx.full.min.js"></script>
+<script src="data/seed.js"></script>
+<script src="src/calc-engine.js"></script>
+<script src="src/db.js"></script>
+<script src="src/seed-loader.js"></script>
+<script src="src/store.js"></script>
+<script src="src/ui-utils.js"></script>
+<script src="src/router.js"></script>
+<script src="src/excel-import.js"></script>
+<script src="src/import-export.js"></script>
+<script src="src/views/dashboard.js"></script>
+<script src="src/views/materias-primas.js"></script>
+<script src="src/views/productos-lista.js"></script>
+<script src="src/views/producto-detalle.js"></script>
+<script src="src/views/configuracion.js"></script>
+<script src="src/views/comparador.js"></script>
+<script src="src/views/historial.js"></script>
+<script src="src/views/import-export-view.js"></script>
+<script src="src/app.js"></script>
+<script>
+  // Registro del Service Worker (PWA). Requiere https:// o localhost — en file://
+  // 'serviceWorker' no está disponible, así que esto no interfiere en ese caso.
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("./sw.js").catch((err) => console.warn("SW registration failed:", err));
+    });
+  }
+</script>
+</body>
+</html>

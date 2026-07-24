@@ -1,0 +1,31 @@
+{
+  "name": "BOM Afton — Costeo de Lubricantes",
+  "short_name": "BOM Afton",
+  "description": "Costeo y precios de lubricantes: materias primas, fórmulas, costos indirectos, empaque y márgenes, con recálculo en vivo.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#1c3d63",
+  "background_color": "#f7f7f5",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

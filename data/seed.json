@@ -1,0 +1,2092 @@
+{
+    "generadoDesde":  "BOM Afton nuevos Aditivos 2026.xlsx",
+    "fechaMigracion":  "2026-07-23",
+    "versionExcelOrigen":  18,
+    "rawMaterials":  [
+                         {
+                             "id":  "mp-1",
+                             "nombre":  "MetaPlus 120 Aceite Base",
+                             "categoria":  "aceite_base",
+                             "unidadCompra":  "L",
+                             "costoUnitario":  1,
+                             "origen":  null,
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-2",
+                             "nombre":  "MetaPlus 240 Aceite Base",
+                             "categoria":  "aceite_base",
+                             "unidadCompra":  "L",
+                             "costoUnitario":  1,
+                             "origen":  null,
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-3",
+                             "nombre":  "CHEMLUBE BS150",
+                             "categoria":  "aceite_base",
+                             "unidadCompra":  "L",
+                             "costoUnitario":  1.35,
+                             "origen":  null,
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-4",
+                             "nombre":  "BASE OIL 600N (group II)",
+                             "categoria":  "aceite_base",
+                             "unidadCompra":  "L",
+                             "costoUnitario":  1.92,
+                             "origen":  null,
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-5",
+                             "nombre":  "HiTEC 11455 ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  6.93,
+                             "densidad":  0.965,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-6",
+                             "nombre":  "HITEC 12220 M ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  5.47,
+                             "densidad":  0.948,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-7",
+                             "nombre":  "HiTEC 12161 ADITIVOS",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  5.47,
+                             "densidad":  0.9869,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-8",
+                             "nombre":  "HiTEC 12204 ADITIVOS",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  6.16,
+                             "densidad":  0.98,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-9",
+                             "nombre":  "HiTEC 2260 ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  5,
+                             "densidad":  1.006,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-10",
+                             "nombre":  "HiTEC 2030 ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  44.59,
+                             "densidad":  0.85,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-11",
+                             "nombre":  "HiTEC 3421 DRUM ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  9.86,
+                             "densidad":  0.909,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-12",
+                             "nombre":  "HiTEC 33321 DRUM ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  12.5,
+                             "densidad":  1.018,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-13",
+                             "nombre":  "HiTEC 397 DRUM ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  16.54,
+                             "densidad":  0.875,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-14",
+                             "nombre":  "HiTEC 8703 ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  8.7,
+                             "densidad":  1.016,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-15",
+                             "nombre":  "HiTEC 8888F DRUM ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  14.69,
+                             "densidad":  1.014,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-16",
+                             "nombre":  "HiTEC 521F ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  13.29,
+                             "densidad":  1.031,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-17",
+                             "nombre":  "HiTEC 3301 DRUM ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  9.8,
+                             "densidad":  0.9007,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-18",
+                             "nombre":  "HiTEC 008 DRUM ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  18.21,
+                             "densidad":  0.921,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-19",
+                             "nombre":  "HiTEC 5754A ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  4.49,
+                             "densidad":  0.8522,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-20",
+                             "nombre":  "HiTEC 5748A ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  4.51,
+                             "densidad":  0.8525,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-21",
+                             "nombre":  "HITEC 672 ADITIVO",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  9.82,
+                             "densidad":  0.8848,
+                             "origen":  "importado",
+                             "fechaActualizacion":  "2026-07-22",
+                             "notas":  null
+                         },
+                         {
+                             "id":  "mp-22",
+                             "nombre":  "DYE",
+                             "categoria":  "aditivo",
+                             "unidadCompra":  "kg",
+                             "costoUnitario":  0,
+                             "origen":  null,
+                             "fechaActualizacion":  null,
+                             "notas":  "Sin costo unitario definido en el Excel original (gap de datos) - revisar con compras."
+                         }
+                     ],
+    "presentations":  [
+                          {
+                              "id":  "pres-cuarto",
+                              "nombre":  "Cuarto",
+                              "volumenL":  0.946
+                          },
+                          {
+                              "id":  "pres-galon",
+                              "nombre":  "Galón",
+                              "volumenL":  3.785
+                          },
+                          {
+                              "id":  "pres-cubeta",
+                              "nombre":  "Cubeta",
+                              "volumenL":  18.927
+                          },
+                          {
+                              "id":  "pres-estanon",
+                              "nombre":  "Estañón",
+                              "volumenL":  208.17
+                          },
+                          {
+                              "id":  "pres-tote",
+                              "nombre":  "Tote",
+                              "volumenL":  1000
+                          }
+                      ],
+    "indirectCosts":  [
+                          {
+                              "id":  "ind-38",
+                              "nombre":  "Consumo Energía",
+                              "tarifaPorLitro":  0.0124
+                          },
+                          {
+                              "id":  "ind-39",
+                              "nombre":  "Agua",
+                              "tarifaPorLitro":  0.004
+                          },
+                          {
+                              "id":  "ind-40",
+                              "nombre":  "Alquiler",
+                              "tarifaPorLitro":  0.0628
+                          },
+                          {
+                              "id":  "ind-41",
+                              "nombre":  "Depreciación",
+                              "tarifaPorLitro":  0.0374
+                          },
+                          {
+                              "id":  "ind-42",
+                              "nombre":  "Mano de obra",
+                              "tarifaPorLitro":  0.1282
+                          }
+                      ],
+    "packaging":  {
+                      "Tote":  [
+                                   {
+                                       "concepto":  "Envase",
+                                       "costo":  127.45
+                                   },
+                                   {
+                                       "concepto":  "Cajas / tarima / cinta / etiquetas / protección (prorrateado)",
+                                       "costo":  20.26
+                                   }
+                               ],
+                      "Galón":  [
+                                    {
+                                        "concepto":  "Envase",
+                                        "costo":  0.54
+                                    },
+                                    {
+                                        "concepto":  "Cajas / tarima / cinta / etiquetas / protección (prorrateado)",
+                                        "costo":  1.1463
+                                    }
+                                ],
+                      "Cubeta":  [
+                                     {
+                                         "concepto":  "Envase",
+                                         "costo":  5.84
+                                     },
+                                     {
+                                         "concepto":  "Cajas / tarima / cinta / etiquetas / protección (prorrateado)",
+                                         "costo":  1.3328
+                                     }
+                                 ],
+                      "Estañón":  [
+                                      {
+                                          "concepto":  "Envase",
+                                          "costo":  46.09
+                                      },
+                                      {
+                                          "concepto":  "Cajas / tarima / cinta / etiquetas / protección (prorrateado)",
+                                          "costo":  6.475
+                                      }
+                                  ],
+                      "Cuarto":  [
+                                     {
+                                         "concepto":  "Envase",
+                                         "costo":  0.35
+                                     },
+                                     {
+                                         "concepto":  "Cajas / tarima / cinta / etiquetas / protección (prorrateado)",
+                                         "costo":  0.9073
+                                     }
+                                 ]
+                  },
+    "marginRules":  [
+                        {
+                            "id":  "margin-local",
+                            "criterio":  "origenAceiteBase",
+                            "valor":  "BO local",
+                            "factor":  1.35
+                        },
+                        {
+                            "id":  "margin-imp",
+                            "criterio":  "origenAceiteBase",
+                            "valor":  "BO imp",
+                            "factor":  1.2
+                        }
+                    ],
+    "products":  [
+                     {
+                         "id":  "prod-5w-20-sp",
+                         "nombre":  "5W-20 SP",
+                         "familia":  "Passenger Car Motor Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.854,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.8833
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 11455 ADITIVO",
+                                                  "porcentaje":  0.07
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.055
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500007",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 5W-20 SP GF-6 Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  314.0183,
+                                                                              "costoTotal":  417.5434,
+                                                                              "precio":  563.6835
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500014",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 5W-20 SP GF-6 Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  28.5508,
+                                                                              "costoTotal":  40.3569,
+                                                                              "precio":  54.4819
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500021",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 5W-20 SP GF-6 Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  5.7096,
+                                                                              "costoTotal":  8.3224,
+                                                                              "precio":  11.2353
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500038",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 5W-20 SP GF-6 Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.427,
+                                                                              "costoTotal":  2.9159,
+                                                                              "precio":  3.9365
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-5w-30-sp",
+                         "nombre":  "5W-30 SP",
+                         "familia":  "Passenger Car Motor Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.857,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.85083
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 11455 ADITIVO",
+                                                  "porcentaje":  0.07
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.087
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500045",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 5W-30 SP GF-6 Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  333.349,
+                                                                              "costoTotal":  436.874,
+                                                                              "precio":  589.7799
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500052",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 5W-30 SP GF-6 Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  30.3084,
+                                                                              "costoTotal":  42.1145,
+                                                                              "precio":  56.8546
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500069",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 5W-30 SP GF-6 Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  6.061,
+                                                                              "costoTotal":  8.6739,
+                                                                              "precio":  11.7098
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500076",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 5W-30 SP GF-6 Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.5149,
+                                                                              "costoTotal":  3.0038,
+                                                                              "precio":  4.0551
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-10w-30-sp",
+                         "nombre":  "10W-30 SP",
+                         "familia":  "Passenger Car Motor Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.859,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.16627
+                                              },
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.72739
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 11455 ADITIVO",
+                                                  "porcentaje":  0.07
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.044
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500083",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 SP GF-6 Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  308.1051,
+                                                                              "costoTotal":  411.6301,
+                                                                              "precio":  555.7007
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500090",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 SP GF-6 Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  28.0132,
+                                                                              "costoTotal":  39.8193,
+                                                                              "precio":  53.7561
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500106",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 SP GF-6 Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  5.602,
+                                                                              "costoTotal":  8.2149,
+                                                                              "precio":  11.0901
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500113",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 SP GF-6 Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.4001,
+                                                                              "costoTotal":  2.889,
+                                                                              "precio":  3.9002
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-10w-40-sp",
+                         "nombre":  "10W-40 SP",
+                         "familia":  "Passenger Car Motor Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.86,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.50467
+                                              },
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.32353
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 11455 ADITIVO",
+                                                  "porcentaje":  0.07
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.109
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500120",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 10W-40 SP Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  346.8692,
+                                                                              "costoTotal":  450.3942,
+                                                                              "precio":  608.0322
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500137",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 10W-40 SP Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  31.5377,
+                                                                              "costoTotal":  43.3438,
+                                                                              "precio":  58.5141
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500144",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 10W-40 SP Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  6.3069,
+                                                                              "costoTotal":  8.9197,
+                                                                              "precio":  12.0416
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500151",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 10W-40 SP Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.5763,
+                                                                              "costoTotal":  3.0652,
+                                                                              "precio":  4.138
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-20w-50-sp",
+                         "nombre":  "20W-50 SP",
+                         "familia":  "Passenger Car Motor Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.862,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.26468
+                                              },
+                                              {
+                                                  "materiaPrima":  "BASE OIL 600N (group II)",
+                                                  "porcentaje":  0.60443
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 11455 ADITIVO",
+                                                  "porcentaje":  0.07
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.068
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500168",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 20W-50 SP 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  438.5159,
+                                                                              "costoTotal":  542.0409,
+                                                                              "precio":  650.449
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500175",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 20W-50 SP 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  39.8702,
+                                                                              "costoTotal":  51.6764,
+                                                                              "precio":  62.0116
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500182",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 20W-50 SP 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  7.9732,
+                                                                              "costoTotal":  10.5861,
+                                                                              "precio":  12.7033
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500199",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 20W-50 SP 946 mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.9928,
+                                                                              "costoTotal":  3.4817,
+                                                                              "precio":  4.178
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-10w-30-ck-4",
+                         "nombre":  "10W-30 CK-4",
+                         "familia":  "Heavy Duty Engines Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.857,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.51035
+                                              },
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.29127
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 12220 M ADITIVO",
+                                                  "porcentaje":  0.167
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5748A ADITIVO",
+                                                  "porcentaje":  0.047
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500205",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 CK-4 Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  367.6572,
+                                                                              "costoTotal":  471.1822,
+                                                                              "precio":  636.096
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500212",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 CK-4 Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  33.4277,
+                                                                              "costoTotal":  45.2338,
+                                                                              "precio":  61.0657
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500229",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 CK-4 Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  6.735,
+                                                                              "costoTotal":  9.3478,
+                                                                              "precio":  12.6196
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500236",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 10W-30 CK-4 Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.6833,
+                                                                              "costoTotal":  3.1722,
+                                                                              "precio":  4.2825
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-15w-40-ck-4",
+                         "nombre":  "15W-40 CK-4",
+                         "familia":  "Heavy Duty Engines Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.858,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.1519
+                                              },
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.63541
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 12220 M ADITIVO",
+                                                  "porcentaje":  0.167
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5748A ADITIVO",
+                                                  "porcentaje":  0.061
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500243",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CK-4 Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  376.19,
+                                                                              "costoTotal":  479.715,
+                                                                              "precio":  647.6153
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500250",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CK-4 Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  34.2035,
+                                                                              "costoTotal":  46.0096,
+                                                                              "precio":  62.113
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500267",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CK-4 Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  6.84,
+                                                                              "costoTotal":  9.4528,
+                                                                              "precio":  12.7613
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500274",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CK-4 Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.7095,
+                                                                              "costoTotal":  3.1984,
+                                                                              "precio":  4.3179
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-15w-40-ci-4",
+                         "nombre":  "15W-40 CI-4",
+                         "familia":  "Heavy Duty Engines Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.856,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.842
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 12161 ADITIVOS",
+                                                  "porcentaje":  0.097
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.001
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5748A ADITIVO",
+                                                  "porcentaje":  0.071
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500366",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CI-4 Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  328.636,
+                                                                              "costoTotal":  432.1611,
+                                                                              "precio":  583.4174
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500373",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CI-4 Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  29.8799,
+                                                                              "costoTotal":  41.686,
+                                                                              "precio":  56.2761
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500380",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CI-4 Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  5.9753,
+                                                                              "costoTotal":  8.5882,
+                                                                              "precio":  11.5941
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500397",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® 15W-40 CI-4 Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.4934,
+                                                                              "costoTotal":  2.9823,
+                                                                              "precio":  4.0262
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-10w-40-4t",
+                         "nombre":  "10W-40 4T",
+                         "familia":  "Motorcycle Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.862,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.27469
+                                              },
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.5619
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.002
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 2260 ADITIVO",
+                                                  "porcentaje":  0.067
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.101
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500281",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W-40 SN 4T Semisintético 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  319.1658,
+                                                                              "costoTotal":  422.6909,
+                                                                              "precio":  570.6327
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500298",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W-40 SN 4T Semisintético 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  29.0188,
+                                                                              "costoTotal":  40.8249,
+                                                                              "precio":  55.1137
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500304",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W-40 SN 4T Semisintético 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  5.8032,
+                                                                              "costoTotal":  8.416,
+                                                                              "precio":  11.3616
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500311",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W-40 SN 4T Semisintético 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.4504,
+                                                                              "costoTotal":  2.9393,
+                                                                              "precio":  3.9681
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-20w-50-4t",
+                         "nombre":  "20W-50 4T",
+                         "familia":  "Motorcycle Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.88,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.1857
+                                              },
+                                              {
+                                                  "materiaPrima":  "BASE OIL 600N (group II)",
+                                                  "porcentaje":  0.675
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.002
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 2260 ADITIVO",
+                                                  "porcentaje":  0.0725
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.072
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500328",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 20W-50 SN 4T 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  437.6711,
+                                                                              "costoTotal":  541.1961,
+                                                                              "precio":  649.4353
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500335",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 20W-50 SN 4T 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  39.7934,
+                                                                              "costoTotal":  51.5995,
+                                                                              "precio":  61.9195
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500342",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 20W-50 SN 4T 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  7.9578,
+                                                                              "costoTotal":  10.5707,
+                                                                              "precio":  12.6849
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500359",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 20W-50 SN 4T 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.9889,
+                                                                              "costoTotal":  3.4778,
+                                                                              "precio":  4.1734
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-atf-dexron-iii",
+                         "nombre":  "ATF DEXRON III",
+                         "familia":  "Automatic Transmision Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.851,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.9226
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 3421 DRUM ADITIVO",
+                                                  "porcentaje":  0.082
+                                              },
+                                              {
+                                                  "materiaPrima":  "DYE",
+                                                  "porcentaje":  0.0003
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500489",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® ATF Dexron III 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  335.2891,
+                                                                              "costoTotal":  438.8141,
+                                                                              "precio":  592.3991
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500496",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® ATF Dexron III18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  30.4848,
+                                                                              "costoTotal":  42.2909,
+                                                                              "precio":  57.0927
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500502",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® ATF Dexron III 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  6.0963,
+                                                                              "costoTotal":  8.7092,
+                                                                              "precio":  11.7574
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500519",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® ATF Dexron III 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.5237,
+                                                                              "costoTotal":  3.0126,
+                                                                              "precio":  4.067
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-75w-90-gl-4",
+                         "nombre":  "75W-90 GL-4",
+                         "familia":  "Gear Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.877,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.5419
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 008 DRUM ADITIVO",
+                                                  "porcentaje":  0.1
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 33321 DRUM ADITIVO",
+                                                  "porcentaje":  0.03
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 3301 DRUM ADITIVO",
+                                                  "porcentaje":  0.32
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.02
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500526",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 75W-90 GL4 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1122.1002,
+                                                                              "costoTotal":  1225.6252,
+                                                                              "precio":  1654.594
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500533",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 75W-90 GL4 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  102.0223,
+                                                                              "costoTotal":  113.8284,
+                                                                              "precio":  153.6684
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500540",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 75W-90 GL4 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  20.4023,
+                                                                              "costoTotal":  23.0152,
+                                                                              "precio":  31.0705
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500557",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 75W-90 GL4 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  5.0992,
+                                                                              "costoTotal":  6.5881,
+                                                                              "precio":  8.894
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-80w-90-gl-5",
+                         "nombre":  "80W-90 GL-5",
+                         "familia":  "Gear Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.888,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.4401
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.498
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 33321 DRUM ADITIVO",
+                                                  "porcentaje":  0.06
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.01
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500564",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  388.3623,
+                                                                              "costoTotal":  491.8873,
+                                                                              "precio":  590.2648
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500571",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  35.3102,
+                                                                              "costoTotal":  47.1163,
+                                                                              "precio":  56.5396
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500588",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  7.0613,
+                                                                              "costoTotal":  9.6742,
+                                                                              "precio":  11.609
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500595",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.7649,
+                                                                              "costoTotal":  3.2538,
+                                                                              "precio":  3.9045
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-80w-90-gl-5-lsd",
+                         "nombre":  "80W-90 GL-5 LSD",
+                         "familia":  "Gear Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.889,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.434
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.467
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 397 DRUM ADITIVO",
+                                                  "porcentaje":  0.02
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 33321 DRUM ADITIVO",
+                                                  "porcentaje":  0.068
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.02
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500601",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 LSD 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  476.4555,
+                                                                              "costoTotal":  579.9805,
+                                                                              "precio":  695.9766
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500618",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 LSD 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  43.3198,
+                                                                              "costoTotal":  55.1259,
+                                                                              "precio":  66.151
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500625",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 LSD 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  8.663,
+                                                                              "costoTotal":  11.2759,
+                                                                              "precio":  13.5311
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500632",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 80W-90 GL5 LSD 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  2.1652,
+                                                                              "costoTotal":  3.6541,
+                                                                              "precio":  4.3849
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-85w-140-gl-5",
+                         "nombre":  "85W-140 GL-5",
+                         "familia":  "Gear Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.903,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.11
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.8244
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 33321 DRUM ADITIVO",
+                                                  "porcentaje":  0.06
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.01
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500649",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 85W-140 GL5 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  414.0219,
+                                                                              "costoTotal":  517.547,
+                                                                              "precio":  621.0564
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500656",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 85W-140 GL5 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  37.6432,
+                                                                              "costoTotal":  49.4493,
+                                                                              "precio":  59.3392
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500663",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 85W-140 GL5 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  7.5279,
+                                                                              "costoTotal":  10.1407,
+                                                                              "precio":  12.1689
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500670",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 85W-140 GL5 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.8815,
+                                                                              "costoTotal":  3.3704,
+                                                                              "precio":  4.0444
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-unitrak-thf",
+                         "nombre":  "UNITRAK THF",
+                         "familia":  "Truck Hydraulic Fluid",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.86,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.90703
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 8703 ADITIVO",
+                                                  "porcentaje":  0.05
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.01
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 5754A ADITIVO",
+                                                  "porcentaje":  0.04
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500687",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® UNITRAK THF 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  316.4263,
+                                                                              "costoTotal":  419.9513,
+                                                                              "precio":  566.9343
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500694",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® UNITRAK THF 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  28.7698,
+                                                                              "costoTotal":  40.5759,
+                                                                              "precio":  54.7774
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500700",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® UNITRAK THF 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  5.7498,
+                                                                              "costoTotal":  8.3627,
+                                                                              "precio":  11.2896
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500717",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  null,
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.4371,
+                                                                              "costoTotal":  2.926,
+                                                                              "precio":  null
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-aw-32",
+                         "nombre":  "AW 32",
+                         "familia":  "Hydraulic Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.849,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.63131
+                                              },
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.35959
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 521F ADITIVO",
+                                                  "porcentaje":  0.0085
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.002
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500762",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® AW 32 10W 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  229.7118,
+                                                                              "costoTotal":  333.2368,
+                                                                              "precio":  449.8697
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500779",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® AW 32/ 10W 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  20.8856,
+                                                                              "costoTotal":  32.6917,
+                                                                              "precio":  44.1338
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500786",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® AW 32/ 10W 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  4.1763,
+                                                                              "costoTotal":  6.7892,
+                                                                              "precio":  9.1654
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500793",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  null,
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.0438,
+                                                                              "costoTotal":  2.5327,
+                                                                              "precio":  null
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-aw-46",
+                         "nombre":  "AW 46",
+                         "familia":  "Hydraulic Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.851,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.99088
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 521F ADITIVO",
+                                                  "porcentaje":  0.0085
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.002
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500809",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® AW 46 15W 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  229.7628,
+                                                                              "costoTotal":  333.2878,
+                                                                              "precio":  449.9386
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500816",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® AW 46/ 15W 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  20.8902,
+                                                                              "costoTotal":  32.6963,
+                                                                              "precio":  44.1401
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500823",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® AW 46/ 15W 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  4.1776,
+                                                                              "costoTotal":  6.7905,
+                                                                              "precio":  9.1671
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500830",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  null,
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.0441,
+                                                                              "costoTotal":  2.533,
+                                                                              "precio":  null
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-aw-68",
+                         "nombre":  "AW 68",
+                         "familia":  "Hydraulic Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.861,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.79591
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.19496
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 521F ADITIVO",
+                                                  "porcentaje":  0.0085
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.002
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500847",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® AW 68/20W 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  244.2415,
+                                                                              "costoTotal":  347.7665,
+                                                                              "precio":  417.3198
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500854",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® AW 68/20W 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  22.2066,
+                                                                              "costoTotal":  34.0128,
+                                                                              "precio":  40.8153
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500861",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® AW 68/20W 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  4.4431,
+                                                                              "costoTotal":  7.0559,
+                                                                              "precio":  8.4671
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500878",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  null,
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.1105,
+                                                                              "costoTotal":  2.5994,
+                                                                              "precio":  null
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Tanqueta",
+                                                    "codigo":  "7441200501042",
+                                                    "volumenL":  1000,
+                                                    "nombreCompleto":  null,
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1173.8629,
+                                                                              "costoTotal":  0,
+                                                                              "precio":  null
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-10w-to-4",
+                         "nombre":  "10W TO-4",
+                         "familia":  "Transmision Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.867,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.8202
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.1226
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.005
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 8888F DRUM ADITIVO",
+                                                  "porcentaje":  0.062
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500724",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W TO-4 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  378.4376,
+                                                                              "costoTotal":  481.9627,
+                                                                              "precio":  578.3552
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500731",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W TO-4 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  34.4079,
+                                                                              "costoTotal":  46.214,
+                                                                              "precio":  55.4568
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500748",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W TO-4 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  6.8808,
+                                                                              "costoTotal":  9.4937,
+                                                                              "precio":  11.3925
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500755",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub® SAE 10W TO-4 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.7198,
+                                                                              "costoTotal":  3.2087,
+                                                                              "precio":  3.8504
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-sae-30-to-4",
+                         "nombre":  "SAE 30 TO-4",
+                         "familia":  "Transmision Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.872,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.2507
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.6898
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.005
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 8888F DRUM ADITIVO",
+                                                  "porcentaje":  0.062
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500960",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "Metalub SEA 30W TO-4 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  420.2839,
+                                                                              "costoTotal":  523.8089,
+                                                                              "precio":  628.5706
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500977",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "Metalub SAE 30W TO-4 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  38.2126,
+                                                                              "costoTotal":  50.0187,
+                                                                              "precio":  60.0224
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200500984",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "Metalub SAE 30W TO-4 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  7.6417,
+                                                                              "costoTotal":  10.2546,
+                                                                              "precio":  12.3055
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200500991",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "Metalub SAE 30W TO-4 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.9099,
+                                                                              "costoTotal":  3.3988,
+                                                                              "precio":  4.0786
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-sae-50-to-4",
+                         "nombre":  "SAE 50 TO-4",
+                         "familia":  "Transmision Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.894,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.6715
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.2701
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.005
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 8888F DRUM ADITIVO",
+                                                  "porcentaje":  0.062
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200501004",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub SAE 50 TO-4 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  394.3297,
+                                                                              "costoTotal":  497.8547,
+                                                                              "precio":  597.4257
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200501011",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "Metalub SAE 50 TO-4 18.947L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  35.8528,
+                                                                              "costoTotal":  47.6589,
+                                                                              "precio":  57.1907
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Galones",
+                                                    "codigo":  "7441200501028",
+                                                    "volumenL":  3.785,
+                                                    "nombreCompleto":  "MetaLub SAE 50 TO-4 3.785L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  7.1698,
+                                                                              "costoTotal":  9.7827,
+                                                                              "precio":  11.7392
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200501035",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "MetaLub SAE 50 TO-4 946mL",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.792,
+                                                                              "costoTotal":  3.2809,
+                                                                              "precio":  3.9371
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-sae-40-sf-cf-2",
+                         "nombre":  "SAE 40 SF/CF-2",
+                         "familia":  "Heavy Duty Engines Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.879,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.5314
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.3929
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.001
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 12204 ADITIVOS",
+                                                  "porcentaje":  0.084
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500403",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 40 SFCF-2 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  317.5168,
+                                                                              "costoTotal":  421.0418,
+                                                                              "precio":  505.2502
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500410",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 40 SF/CF-2 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  28.8689,
+                                                                              "costoTotal":  40.675,
+                                                                              "precio":  48.81
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-sae-50-sf-cf-2",
+                         "nombre":  "SAE 50 SF/CF-2",
+                         "familia":  "Heavy Duty Engines Oil",
+                         "origenAceiteBase":  "BO imp",
+                         "densidadKgL":  0.88,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 240 Aceite Base",
+                                                  "porcentaje":  0.3795
+                                              },
+                                              {
+                                                  "materiaPrima":  "CHEMLUBE BS150",
+                                                  "porcentaje":  0.5443
+                                              },
+                                              {
+                                                  "materiaPrima":  "HITEC 672 ADITIVO",
+                                                  "porcentaje":  0.001
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 12204 ADITIVOS",
+                                                  "porcentaje":  0.084
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Estañones",
+                                                    "codigo":  "7441200500441",
+                                                    "volumenL":  208.17,
+                                                    "nombreCompleto":  "MetaLub® SAE 50 SFCF-2 208L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  328.5534,
+                                                                              "costoTotal":  432.0784,
+                                                                              "precio":  518.4941
+                                                                          }
+                                                },
+                                                {
+                                                    "presentacion":  "Cubetas",
+                                                    "codigo":  "7441200500458",
+                                                    "volumenL":  18.927,
+                                                    "nombreCompleto":  "MetaLub® SAE 50 SF/CF-2 18.927L",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  29.8724,
+                                                                              "costoTotal":  41.6785,
+                                                                              "precio":  50.0142
+                                                                          }
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "prod-psf",
+                         "nombre":  "PSF",
+                         "familia":  "Automatic Transmision Oil",
+                         "origenAceiteBase":  "BO local",
+                         "densidadKgL":  0.851,
+                         "ingredientes":  [
+                                              {
+                                                  "materiaPrima":  "MetaPlus 120 Aceite Base",
+                                                  "porcentaje":  0.9226
+                                              },
+                                              {
+                                                  "materiaPrima":  "HiTEC 3421 DRUM ADITIVO",
+                                                  "porcentaje":  0.082
+                                              }
+                                          ],
+                         "estado":  "activo",
+                         "presentaciones":  [
+                                                {
+                                                    "presentacion":  "Cuartos",
+                                                    "codigo":  "7441200501080",
+                                                    "volumenL":  0.946,
+                                                    "nombreCompleto":  "PSF",
+                                                    "verificacionExcel":  {
+                                                                              "costoMateriaPrima":  1.5237,
+                                                                              "costoTotal":  3.0126,
+                                                                              "precio":  4.067
+                                                                          }
+                                                }
+                                            ]
+                     }
+                 ]
+}

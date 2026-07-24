@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<title>Tests — Motor de cálculo BOM Afton</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+  h1 { font-size: 1.25rem; }
+  .summary { font-weight: 600; padding: 0.75rem; border-radius: 6px; margin-bottom: 1rem; }
+  .summary.ok { background: #dcfce7; color: #166534; }
+  .summary.fail { background: #fee2e2; color: #991b1b; }
+  ul { list-style: none; padding: 0; }
+  li { padding: 0.4rem 0.6rem; border-bottom: 1px solid #eee; font-size: 0.9rem; }
+  li.pass::before { content: "✓ "; color: #16a34a; font-weight: bold; }
+  li.fail::before { content: "✗ "; color: #dc2626; font-weight: bold; }
+  li.fail { background: #fef2f2; }
+  .error { color: #991b1b; font-size: 0.85rem; margin-top: 0.15rem; }
+</style>
+</head>
+<body>
+<h1>Tests — Motor de cálculo (calc-engine.js)</h1>
+<div id="summary" class="summary">Ejecutando…</div>
+<ul id="list"></ul>
+<script src="./src/calc-engine.js"></script>
+<script src="./src/calc-engine.test.js"></script>
+<script>
+  const results = window.__CALC_ENGINE_TEST_RESULTS__;
+  const list = document.getElementById("list");
+  const summary = document.getElementById("summary");
+  let pass = 0;
+  for (const r of results) {
+    const li = document.createElement("li");
+    li.className = r.ok ? "pass" : "fail";
+    li.textContent = r.nombre;
+    if (!r.ok) {
+      const err = document.createElement("div");
+      err.className = "error";
+      err.textContent = r.error;
+      li.appendChild(err);
+    } else {
+      pass++;
+    }
+    list.appendChild(li);
+  }
+  summary.textContent = `${pass}/${results.length} tests pasaron`;
+  summary.className = "summary " + (pass === results.length ? "ok" : "fail");
+  window.__TEST_RESULTS__ = results;
+</script>
+</body>
+</html>
